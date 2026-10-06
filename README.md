@@ -1,141 +1,82 @@
 # Segmentação e classificação de vendas de uma cafeteria
 
-Este projeto analisa **3.636 transações** de uma cafeteria, registradas entre **1º de março de 2024 e 23 de março de 2025**. O trabalho combina:
+## Objetivo
 
-1. preparação e normalização dos dados;
-2. aprendizado não supervisionado com K-Means;
-3. aprendizado supervisionado com Árvore de Decisão.
+Este projeto analisa **3.636 transações** de uma cafeteria, registradas entre março de 2024 e março de 2025.
 
-O objetivo da etapa não supervisionada é identificar padrões de compra sem rótulos prévios. Em seguida, a etapa supervisionada aprende regras capazes de classificar novas transações nos clusters encontrados.
+Foram aplicadas duas técnicas de aprendizado de máquina:
 
-## Dataset
+- **K-Means**, para encontrar grupos de transações semelhantes;
+- **Árvore de Decisão**, para aprender a classificar novas transações nesses grupos.
 
-Os dados foram obtidos do projeto público [Coffee Shop Business Intelligence](https://github.com/mehmetkahya0/coffee-shop-business-intelligence). O repositório mantém dois arquivos de origem:
+## Dataset e preparação
 
-- `01_original.csv`: exportação utilizada no início do projeto;
-- `ref_full_datetime.csv`: referência da mesma fonte com o horário completo.
+O dataset original contém as seguintes informações:
 
-A referência foi necessária porque o Excel transformou a coluna `datetime` do primeiro arquivo em `mm:ss.0`, removendo a hora. Antes da recuperação, o notebook confirma que ambos os arquivos possuem as mesmas 3.636 linhas, na mesma ordem, e os mesmos valores de data, forma de pagamento, cartão, valor e produto.
-
-| Coluna original | Descrição |
+| Coluna | Descrição |
 |---|---|
 | `date` | data da venda |
-| `datetime` | data e horário completos na referência |
-| `cash_type` | pagamento por cartão ou dinheiro |
+| `datetime` | data e horário da venda |
+| `cash_type` | forma de pagamento |
 | `card` | identificador anonimizado do cartão |
 | `money` | valor da compra |
 | `coffee_name` | produto comprado |
 
-Existem **89 valores ausentes em `card`**, correspondentes aos pagamentos em dinheiro. Como o identificador do cartão não participa dos modelos, essas ausências não exigem imputação.
+As características preparadas foram:
 
-## Preparação e características
+| Característica | Transformação |
+|---|---|
+| `money` | normalização min-max para o intervalo de 0 a 1 |
+| `hour` | hora da transação |
+| `is_weekend` | 1 para sábado ou domingo e 0 para dias úteis |
+| `weekday` | número do dia da semana |
+| `day_period` | manhã, tarde ou noite representadas numericamente |
+| `cash_type` | cartão = 0 e dinheiro = 1 |
+| `coffee_name_*` | codificação one-hot dos produtos |
 
-O notebook `01_normalize.ipynb` gera `02_normalized.csv` com 3.636 linhas, 14 características numéricas e nenhum valor ausente.
-
-| Característica | Preparação | Uso posterior |
-|---|---|---|
-| `money` | min-max: `(x - mínimo) / (máximo - mínimo)` | K-Means e Árvore de Decisão |
-| `hour` | hora recuperada de `ref_full_datetime.csv` | K-Means e Árvore de Decisão |
-| `is_weekend` | 1 para sábado/domingo; 0 nos demais dias | K-Means e Árvore de Decisão |
-| `weekday` | segunda = 0 até domingo = 6 | descrição, não entra nos modelos finais |
-| `day_period` | madrugada = 0, manhã = 1, tarde = 2, noite = 3 | descrição, não entra nos modelos finais |
-| `cash_type` | cartão = 0; dinheiro = 1 | descrição, não entra nos modelos finais |
-| `coffee_name_*` | codificação one-hot dos oito produtos | interpretação dos clusters |
-
-Cada linha possui exatamente uma categoria `coffee_name_*` igual a 1.
-
-Há duas transformações de escala distintas:
-
-- **normalização min-max:** aplicada a `money` durante a preparação, colocando o valor no intervalo `[0, 1]`;
-- **padronização:** aplicada com `StandardScaler` às três entradas do K-Means. Cada característica passa a ter média 0 e desvio-padrão 1, evitando que sua unidade determine a distância euclidiana.
+Para o K-Means foram utilizadas somente `money`, `hour` e `is_weekend`. Antes do treinamento, essas três características foram padronizadas com `StandardScaler`, ficando com média 0 e desvio-padrão 1.
 
 ## Aprendizado não supervisionado
 
-O K-Means utiliza `money`, `hour` e `is_weekend`. Essa seleção evita representar duas vezes a mesma informação:
+O número de clusters foi avaliado entre 2 e 10. A curva do cotovelo, o coeficiente silhouette e a interpretação dos resultados foram usados para escolher **k = 3**.
 
-- `weekday` repete parcialmente o indicador `is_weekend`;
-- `day_period` deriva diretamente de `hour`;
-- `cash_type` possui somente 89 pagamentos em dinheiro e poderia criar um cluster baseado apenas nessa categoria rara;
-- as colunas de produto fariam o algoritmo separar principalmente os tipos de café.
+![Curva do cotovelo e silhouette](reports/figures/curva_cotovelo.png)
 
-Foram avaliados valores de `k` entre 2 e 10. A curva do cotovelo e o silhouette são usados em conjunto, e `k = 3` foi escolhido por equilibrar redução da inércia e interpretação dos padrões. O silhouette não atinge seu máximo em `k = 3`; portanto, a escolha também considera a utilidade e a simplicidade dos três perfis.
+Os grupos encontrados foram:
 
-![Curva do cotovelo e silhouette](figures/curva_cotovelo.png)
+| Cluster | Transações | Características principais |
+|---|---:|---|
+| Dia útil — manhã | 1.416 | compras em dias úteis, por volta das 11h |
+| Dia útil — tarde/noite | 1.304 | compras em dias úteis, por volta das 18h, com maior gasto médio |
+| Fim de semana | 916 | compras realizadas aos sábados e domingos |
 
-Os clusters resultantes são:
+O heatmap apresenta a média das características utilizadas em cada cluster.
 
-| Cluster | Transações | Proporção | Gasto normalizado médio | Hora média |
-|---|---:|---:|---:|---:|
-| Dia útil — manhã | 1.416 | 38,9% | 0,52 | 10,93 |
-| Dia útil — tarde/noite | 1.304 | 35,9% | 0,74 | 17,74 |
-| Fim de semana | 916 | 25,2% | 0,62 | 14,09 |
-
-O heatmap colore as médias por z-score entre clusters, mas anota os valores nas unidades originais para facilitar a interpretação.
-
-![Heatmap com as médias dos clusters](figures/heatmap_clusters.png)
-
-Os tipos de café foram analisados somente depois do agrupamento. Assim, a composição dos produtos ajuda a descrever os clusters sem influenciar sua criação.
-
-![Composição de cafés por cluster](figures/mix_cafes.png)
+![Heatmap com as médias dos clusters](reports/figures/heatmap_clusters.png)
 
 ## Aprendizado supervisionado
 
-O arquivo `03_clustered.csv` fornece os rótulos produzidos pelo K-Means. Uma Árvore de Decisão de profundidade máxima 4 aprende a prever `cluster_name` usando as mesmas três características.
+Uma Árvore de Decisão com profundidade máxima 4 foi treinada para classificar novas transações nos clusters encontrados pelo K-Means.
 
-O conjunto foi dividido de forma estratificada e reproduzível:
+O dataset foi separado de forma estratificada em:
 
-- treino: **2.908 transações (80%)**;
-- teste: **728 transações (20%)**;
-- semente aleatória: **42**.
+- **2.908 transações para treino (80%)**;
+- **728 transações para teste (20%)**.
 
-| Modelo/métrica | Acurácia |
+| Avaliação | Acurácia |
 |---|---:|
-| Dummy, classe mais frequente — teste | 39,011% |
-| Árvore de Decisão — treino | **97,868%** |
-| Árvore de Decisão — teste | **97,390%** |
+| Modelo Dummy no teste | 39,011% |
+| Árvore de Decisão no treino | **97,868%** |
+| Árvore de Decisão no teste | **97,390%** |
 
-A proximidade entre as acurácias de treino e teste indica que a árvore manteve desempenho semelhante em dados não usados no ajuste. No teste, foram classificadas corretamente **709 de 728 transações**.
+A proximidade entre as acurácias de treino e teste indica que o modelo manteve bom desempenho em transações que não participaram do treinamento. No teste, foram classificadas corretamente **709 de 728 transações**.
 
-![Matriz de confusão](figures/matriz_confusao.png)
+![Matriz de confusão](reports/figures/matriz_confusao.png)
 
-A árvore abaixo torna explícitas as regras aprendidas. A primeira separação identifica fins de semana; as demais combinam principalmente limites de horário e valor.
+A árvore mostra as regras aprendidas a partir do valor da compra, do horário e da identificação de fim de semana.
 
-![Regras da Árvore de Decisão](figures/arvore_decisao.png)
-
-## Limitação da classificação
-
-O alvo supervisionado não é uma classe observada originalmente. Ele foi criado pelo K-Means a partir das mesmas três características usadas pela árvore. Portanto, a acurácia demonstra que o modelo consegue **reproduzir as regras de atribuição dos clusters em novas transações**, mas não prova que ele prevê uma preferência real, fidelidade do cliente ou comportamento futuro independente.
-
-## Arquivos gerados
-
-| Arquivo | Conteúdo |
-|---|---|
-| `02_normalized.csv` | 14 características preparadas para 3.636 transações |
-| `03_clustered.csv` | características normalizadas mais `cluster` e `cluster_name` |
-| `04_predictions.csv` | `money`, `hour`, `is_weekend`, classe real, classe prevista e indicador de acerto para as 728 linhas de teste |
-
-## Como reproduzir
-
-Com Python 3 instalado, crie um ambiente virtual e instale as versões utilizadas:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
-```
-
-Execute toda a sequência automaticamente:
-
-```powershell
-python run_pipeline.py
-```
-
-O script reinicia e executa os notebooks nesta ordem:
-
-1. `01_normalize.ipynb` — gera `02_normalized.csv`;
-2. `02_clustering.ipynb` — gera `03_clustered.csv` e as figuras de clustering;
-3. `03_supervised.ipynb` — gera `04_predictions.csv` e as figuras supervisionadas.
+![Árvore de Decisão](reports/figures/arvore_decisao.png)
 
 ## Conclusão
 
-O K-Means encontrou três padrões interpretáveis associados ao período da semana, horário e valor da compra. A Árvore de Decisão aprendeu uma aproximação compacta dessas regras e alcançou 97,390% de acurácia em transações separadas para teste. O projeto atende às etapas de descrição do dataset, especificação das características, explicação da padronização, curva do cotovelo, heatmap das médias e comparação das acurácias de treino e teste.
+O K-Means identificou três padrões de compra relacionados ao dia da semana, ao horário e ao valor da transação. A Árvore de Decisão aprendeu a reproduzir essa classificação e alcançou **97,390% de acurácia no conjunto de teste**.
