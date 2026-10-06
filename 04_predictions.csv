@@ -1,729 +1,729 @@
-money,weekday,is_weekend,day_period,hour,cash_type,coffee_name_Americano,coffee_name_Americano with Milk,coffee_name_Cappuccino,coffee_name_Cocoa,coffee_name_Cortado,coffee_name_Espresso,coffee_name_Hot Chocolate,coffee_name_Latte,cluster_true,cluster_pred,correct
-0.3583180987202925,3,0,2,16,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,15,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,4,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,1,10,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.3583180987202925,5,1,2,13,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.5822669104204753,6,1,3,18,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.4926873857404021,4,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,5,1,1,11,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,4,0,3,22,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,4,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,19,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,3,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,2,15,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.7166361974405848,0,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,2,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,1,7,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,2,0,2,16,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,2,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,2,12,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,3,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,6,1,1,8,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,3,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4926873857404021,5,1,2,12,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,3,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,1,10,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,3,0,2,15,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,15,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,0,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,14,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,2,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,3,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,1,11,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,1,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,1,0,2,15,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,1,10,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,0,0,1,8,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,2,16,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,0,0,3,18,0,0,0,0,0,0,1,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,15,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,3,19,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.5822669104204753,4,0,2,15,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,2,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,0,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4478976234003657,3,0,2,12,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,1,7,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,2,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,2,13,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,1,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,5,1,2,15,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,6,1,2,16,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,4,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.1343692870201095,6,1,2,13,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.3583180987202925,4,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,6,1,2,15,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,2,17,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,2,0,3,21,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.1343692870201095,1,0,3,19,0,0,0,0,0,0,1,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,5,1,3,20,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,0,0,3,20,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2687385740402193,6,1,2,14,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.5822669104204753,6,1,1,10,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.940585009140768,0,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,1,0,2,12,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,5,1,1,9,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,0,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,2,0,3,21,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,3,20,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.5429616087751371,0,0,1,11,1,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,2,15,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,2,12,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,2,0,3,20,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,5,1,1,11,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.6718464351005484,5,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.4478976234003657,1,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,0,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.2239488117001827,3,0,2,13,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,5,1,2,17,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,1,0,2,17,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,2,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.7166361974405848,3,0,2,15,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,1,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,4,0,1,7,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,5,1,2,14,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.8957952468007312,5,1,3,20,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,4,0,1,10,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,1,7,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,6,1,2,16,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,0,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,3,20,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.940585009140768,0,0,1,10,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,5,1,2,12,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,6,1,2,17,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,3,0,2,13,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,1,10,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.4478976234003657,2,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,1,10,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,0,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,3,22,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,5,1,2,13,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.9542961608775136,5,1,3,22,1,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,3,19,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,14,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,5,1,2,16,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,1,11,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.4478976234003657,0,0,2,17,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,6,1,1,9,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.6718464351005484,1,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,3,20,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4926873857404021,5,1,2,12,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,0,0,2,14,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,5,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,2,15,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,4,0,3,20,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.4478976234003657,1,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,2,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,1,10,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,2,14,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,5,1,3,18,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,2,17,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,1,0,3,21,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,6,1,1,11,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,3,22,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,6,1,3,21,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.4478976234003657,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,4,0,2,16,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,2,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,1,0,3,18,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,13,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4926873857404021,3,0,3,19,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,0,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.4478976234003657,2,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,1,0,3,18,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.9542961608775136,6,1,2,17,1,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,1,0,2,15,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.1343692870201095,1,0,2,12,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.7166361974405848,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,3,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.940585009140768,1,0,2,15,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,13,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,4,0,2,12,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,0,0,3,18,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,3,20,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,2,14,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.6718464351005484,1,0,1,8,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,22,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,2,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,3,0,3,21,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,6,1,2,13,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.4478976234003657,1,0,3,20,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,1,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,3,18,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,1,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,0,0,1,11,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,1,7,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8957952468007312,2,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,14,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,1,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,13,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,1,0,2,14,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,6,1,2,13,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,5,1,3,22,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.7166361974405848,0,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,2,16,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,1,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,6,1,2,14,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,3,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8957952468007312,0,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,12,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4926873857404021,1,0,2,13,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,6,1,1,10,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,6,1,1,9,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,2,12,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,2,14,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,3,0,3,18,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,2,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,0,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5429616087751371,0,0,1,11,1,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,6,1,2,17,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,2,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,5,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.2239488117001827,6,1,3,20,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,1,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,1,8,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.9542961608775136,4,0,1,9,1,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,1,0,3,21,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,6,1,3,21,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,0,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,2,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,1,0,3,22,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.1343692870201095,1,0,2,15,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,6,1,3,21,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,2,0,2,13,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,4,0,3,18,0,0,0,0,0,0,1,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,3,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,3,0,2,17,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,2,16,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.3583180987202925,5,1,2,17,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,13,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,5,1,1,9,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,2,14,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,4,0,2,17,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,6,1,1,10,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.6718464351005484,2,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,2,13,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,3,21,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.3583180987202925,0,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5429616087751371,6,1,2,12,1,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.2239488117001827,1,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.7166361974405848,0,0,2,17,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,2,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,3,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,6,1,2,15,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.940585009140768,0,0,1,11,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,1,11,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,1,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,6,1,2,14,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,1,11,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.2239488117001827,5,1,1,9,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,3,21,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,2,16,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,2,16,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.5822669104204753,2,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.0,1,0,1,11,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,3,22,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.5822669104204753,3,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,22,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,2,14,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,2,13,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.940585009140768,2,0,2,17,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,4,0,3,19,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,1,0,2,16,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,2,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,2,14,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,17,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.8062157221206581,1,0,3,18,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,3,20,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,3,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,3,22,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,3,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,6,1,3,20,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,2,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,1,10,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.9542961608775136,0,0,3,20,1,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,0,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,4,0,2,16,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,1,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,1,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,2,17,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,1,9,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5429616087751371,6,1,1,7,1,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,3,18,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,0,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,2,17,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,3,21,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,3,18,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,1,9,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,6,1,1,10,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.940585009140768,3,0,1,11,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.940585009140768,3,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,0,0,2,13,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,3,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,6,1,2,12,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.3583180987202925,1,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,1,11,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,3,21,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.3583180987202925,5,1,2,15,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,1,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,0,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,1,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,0,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,2,16,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8957952468007312,2,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4926873857404021,5,1,2,16,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.0,2,0,2,14,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,2,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.940585009140768,3,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.5822669104204753,6,1,3,18,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,5,1,3,22,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,0,0,2,13,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,3,21,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,5,1,2,12,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.940585009140768,3,0,1,10,0,0,0,0,0,0,0,1,0,Weekday morning,Weekday morning,True
-0.8062157221206581,2,0,3,18,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,5,1,2,12,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,1,0,3,18,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,1,11,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.4478976234003657,6,1,1,11,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,2,13,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,2,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4478976234003657,3,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,3,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,5,1,3,20,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,3,0,2,13,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,3,18,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,5,1,3,19,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-1.0,5,1,2,13,1,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,2,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,0,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,2,15,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,1,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,3,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,1,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.0,5,1,1,10,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,21,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.4478976234003657,5,1,1,11,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,3,20,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,4,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,6,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,1,10,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,4,0,1,8,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,1,11,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,12,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,22,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.4478976234003657,0,0,3,22,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,0,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.940585009140768,1,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.3583180987202925,0,0,1,11,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,1,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,3,21,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.0,2,0,1,11,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,5,1,1,9,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,2,16,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.2239488117001827,5,1,1,8,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.5822669104204753,2,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,2,17,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,1,0,3,18,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,2,16,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,1,8,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,2,0,1,11,0,0,0,0,0,0,0,1,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.1343692870201095,1,0,2,16,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,19,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,1,7,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.2687385740402193,2,0,2,16,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.9542961608775136,4,0,1,10,1,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,2,16,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,2,0,2,14,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.940585009140768,2,0,2,13,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.1343692870201095,6,1,2,12,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,5,1,1,10,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,0,0,3,21,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,4,0,2,13,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,1,0,2,14,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.4926873857404021,4,0,1,11,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,0,0,2,13,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,1,11,0,0,0,0,0,0,0,1,0,Weekday morning,Weekday morning,True
-0.3583180987202925,6,1,1,11,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,4,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,3,21,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.4478976234003657,1,0,2,12,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,3,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,1,11,0,0,0,0,0,0,0,1,0,Weekday morning,Weekday morning,True
-0.8957952468007312,0,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,2,15,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,6,1,2,13,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,4,0,2,12,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,1,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,3,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,1,10,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,3,18,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.4926873857404021,4,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,6,1,3,19,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,0,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,4,0,1,9,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,3,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,0,0,3,22,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,4,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4926873857404021,1,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,4,0,2,12,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,3,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4926873857404021,3,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,0,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,6,1,1,11,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.2239488117001827,2,0,3,19,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,2,13,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,15,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,6,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,3,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,21,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,2,14,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,4,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,1,0,1,9,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,2,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,14,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,2,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,2,0,1,8,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,1,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,2,13,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,2,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,1,11,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,0,0,2,13,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,0,0,2,17,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4478976234003657,5,1,3,19,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.940585009140768,5,1,2,14,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,0,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.7166361974405848,4,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,4,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,3,20,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,12,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,0,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,3,21,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,3,0,2,12,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,3,18,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,0,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,2,15,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,4,0,1,10,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,14,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.4926873857404021,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,16,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,1,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,18,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,5,1,3,20,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,4,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,1,11,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.4478976234003657,4,0,2,17,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,3,21,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,5,1,1,10,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,3,21,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.8062157221206581,3,0,3,19,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,2,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,3,20,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,15,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,15,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,1,9,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.1343692870201095,3,0,1,9,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,1,7,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,2,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,16,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,3,0,2,12,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,3,21,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,5,1,1,9,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,2,17,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,6,1,1,10,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,2,16,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,17,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,2,0,2,12,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.1343692870201095,0,0,2,15,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-1.0,6,1,1,10,1,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,3,19,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.8062157221206581,3,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,4,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,1,0,2,14,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,5,1,3,19,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,6,1,3,20,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.8062157221206581,6,1,2,15,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,2,0,2,16,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,2,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.2239488117001827,4,0,3,22,0,0,0,0,0,0,1,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-1.0,3,0,1,10,1,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,5,1,1,10,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,2,16,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,22,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.7166361974405848,5,1,2,17,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,0,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,2,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,5,1,1,9,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,1,10,0,0,0,0,1,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,4,0,2,17,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,6,1,3,20,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,0,0,1,10,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,0,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,0,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,22,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,3,20,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,1,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,3,19,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,4,0,2,12,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,1,10,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.1343692870201095,2,0,2,17,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.1343692870201095,1,0,2,17,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,0,0,3,19,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,2,17,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8957952468007312,4,0,1,10,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.4926873857404021,0,0,2,15,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,3,18,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,1,9,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,0,0,2,17,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,1,11,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.3583180987202925,5,1,2,16,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,1,0,1,10,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,5,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,0,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,5,1,1,11,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,0,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,2,0,1,10,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.7166361974405848,4,0,2,13,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,1,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,5,1,2,16,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,1,9,0,0,0,0,0,0,0,1,0,Weekday morning,Weekday morning,True
-0.4478976234003657,3,0,2,12,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.7166361974405848,1,0,1,10,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,5,1,2,13,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.6718464351005484,0,0,2,14,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,6,1,2,13,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,1,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.2239488117001827,0,0,2,15,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,1,0,1,8,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,1,10,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.2239488117001827,4,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,0,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.5822669104204753,4,0,3,19,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,1,0,2,13,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,4,0,1,9,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,1,0,2,12,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,3,20,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.1343692870201095,3,0,2,16,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-0.4926873857404021,5,1,2,14,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.1343692870201095,2,0,2,13,0,0,0,0,0,0,1,0,0,Weekday morning,Weekday morning,True
-1.0,3,0,1,10,1,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.2239488117001827,4,0,1,8,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,4,0,2,17,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,5,1,2,17,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,4,0,3,20,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,3,0,3,19,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.1343692870201095,3,0,3,19,0,0,0,0,0,0,1,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,3,0,3,18,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,2,13,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.0,5,1,1,10,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.6718464351005484,6,1,2,15,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,4,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,3,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,1,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,2,0,1,7,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.940585009140768,0,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,1,11,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,1,0,1,8,0,0,0,1,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.7166361974405848,5,1,2,14,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,2,13,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.4478976234003657,1,0,2,16,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,2,0,2,16,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.4926873857404021,5,1,2,13,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8957952468007312,0,0,2,14,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,6,1,2,13,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,3,21,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,4,0,3,22,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,2,15,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.940585009140768,0,0,2,16,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,0,0,2,16,0,1,0,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,0,0,2,13,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8957952468007312,4,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,12,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,1,9,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,3,0,3,22,0,0,0,0,0,1,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,5,1,1,11,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,2,15,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,3,18,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.6718464351005484,2,0,2,13,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.8062157221206581,0,0,2,14,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.3583180987202925,1,0,1,9,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,2,0,1,11,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,6,1,3,18,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.4478976234003657,6,1,1,7,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.5822669104204753,6,1,1,11,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,6,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.3583180987202925,6,1,2,14,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.2239488117001827,3,0,2,12,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.4478976234003657,6,1,2,13,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.4478976234003657,3,0,3,22,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,6,1,2,12,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,0,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,1,8,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,6,1,1,9,0,0,0,1,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,5,1,3,22,0,0,0,0,0,0,0,1,0,Weekend,Weekend,True
-0.4478976234003657,5,1,1,9,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.8062157221206581,6,1,2,12,0,0,0,0,0,0,0,0,1,Weekend,Weekend,True
-0.5822669104204753,0,0,2,15,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,0,0,2,16,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,3,0,3,19,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,4,0,3,20,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.2239488117001827,6,1,3,18,0,1,0,0,0,0,0,0,0,Weekend,Weekend,True
-0.7166361974405848,6,1,3,18,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.7166361974405848,5,1,2,12,0,0,1,0,0,0,0,0,0,Weekend,Weekend,True
-0.1343692870201095,5,1,2,15,0,0,0,0,0,0,1,0,0,Weekend,Weekend,True
-0.2239488117001827,6,1,2,12,0,0,0,0,0,1,0,0,0,Weekend,Weekend,True
-0.8062157221206581,2,0,3,22,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-1.0,4,0,2,16,1,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.4478976234003657,0,0,1,7,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.5822669104204753,3,0,1,11,0,0,1,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.3583180987202925,4,0,1,8,0,0,0,0,0,1,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,1,9,0,0,0,0,1,0,0,0,0,Weekday morning,Weekday morning,True
-0.8062157221206581,3,0,3,18,0,0,0,0,1,0,0,0,0,Weekday evening,Weekday evening,True
-0.5822669104204753,1,0,3,18,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.8957952468007312,0,0,3,18,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.6718464351005484,1,0,3,21,0,0,1,0,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.940585009140768,1,0,2,17,0,0,0,0,0,0,0,1,0,Weekday evening,Weekday evening,True
-0.8062157221206581,4,0,2,15,0,0,0,1,0,0,0,0,0,Weekday evening,Weekday evening,True
-0.3583180987202925,3,0,2,14,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
-0.6718464351005484,3,0,1,9,0,0,0,0,0,0,0,0,1,Weekday morning,Weekday morning,True
-0.8062157221206581,0,0,3,19,0,0,0,0,0,0,0,0,1,Weekday evening,Weekday evening,True
-0.4926873857404021,4,0,2,13,0,1,0,0,0,0,0,0,0,Weekday morning,Weekday morning,True
+money,hour,is_weekend,cluster_true,cluster_pred,correct
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,19,1,Fim de semana,Fim de semana,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,12,1,Fim de semana,Fim de semana,True
+0.6718464351005484,21,1,Fim de semana,Fim de semana,True
+0.5822669104204753,18,1,Fim de semana,Fim de semana,True
+0.5822669104204753,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,18,1,Fim de semana,Fim de semana,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.1343692870201095,18,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.7166361974405848,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,12,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.3583180987202925,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,19,1,Fim de semana,Fim de semana,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+0.5822669104204753,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,10,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.9542961608775136,22,1,Fim de semana,Fim de semana,True
+0.2239488117001827,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,1,Fim de semana,Fim de semana,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,10,1,Fim de semana,Fim de semana,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,11,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.6718464351005484,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,1,Fim de semana,Fim de semana,True
+0.4478976234003657,11,1,Fim de semana,Fim de semana,True
+0.6718464351005484,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,1,Fim de semana,Fim de semana,True
+0.4478976234003657,17,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.5822669104204753,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,9,1,Fim de semana,Fim de semana,True
+0.2239488117001827,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,8,1,Fim de semana,Fim de semana,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,20,1,Fim de semana,Fim de semana,True
+0.8062157221206581,15,1,Fim de semana,Fim de semana,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,21,1,Fim de semana,Fim de semana,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,13,1,Fim de semana,Fim de semana,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,1,Fim de semana,Fim de semana,True
+0.4478976234003657,9,1,Fim de semana,Fim de semana,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.7257769652650823,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,18,1,Fim de semana,Fim de semana,True
+0.4478976234003657,11,1,Fim de semana,Fim de semana,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,20,1,Fim de semana,Fim de semana,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.9542961608775136,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,12,1,Fim de semana,Fim de semana,True
+0.8957952468007312,20,1,Fim de semana,Fim de semana,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,15,1,Fim de semana,Fim de semana,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,1,Fim de semana,Fim de semana,True
+0.8957952468007312,12,1,Fim de semana,Fim de semana,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,10,1,Fim de semana,Fim de semana,True
+0.4478976234003657,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,18,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,1,Fim de semana,Fim de semana,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.1343692870201095,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,17,1,Fim de semana,Fim de semana,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,10,1,Fim de semana,Fim de semana,True
+0.940585009140768,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,21,1,Fim de semana,Fim de semana,True
+0.8062157221206581,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,12,1,Fim de semana,Fim de semana,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,18,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,15,1,Fim de semana,Fim de semana,True
+0.5822669104204753,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4972577696526508,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,15,1,Fim de semana,Fim de semana,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,15,1,Fim de semana,Fim de semana,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.940585009140768,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+0.8957952468007312,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.9542961608775136,17,1,Fim de semana,Fim de semana,True
+0.5822669104204753,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,15,1,Fim de semana,Fim de semana,True
+0.5822669104204753,22,1,Fim de semana,Fim de semana,True
+0.8957952468007312,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,9,1,Fim de semana,Fim de semana,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+1.0,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,17,1,Fim de semana,Fim de semana,True
+1.0,10,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,11,1,Fim de semana,Fim de semana,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,18,1,Fim de semana,Fim de semana,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,16,1,Fim de semana,Fim de semana,True
+0.2239488117001827,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,19,1,Fim de semana,Fim de semana,True
+0.2239488117001827,20,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,20,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,9,1,Fim de semana,Fim de semana,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,22,1,Fim de semana,Fim de semana,True
+0.4478976234003657,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+0.3583180987202925,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,16,1,Fim de semana,Fim de semana,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,1,Fim de semana,Fim de semana,True
+1.0,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,12,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.3583180987202925,9,1,Fim de semana,Fim de semana,True
+0.4478976234003657,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,10,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,6,0,Dia útil — manhã,Dia útil — manhã,True
+1.0,11,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,12,1,Fim de semana,Fim de semana,True
+0.5822669104204753,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,9,1,Fim de semana,Fim de semana,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,12,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.4478976234003657,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,15,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.2687385740402193,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,14,1,Fim de semana,Fim de semana,True
+0.3583180987202925,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,20,1,Fim de semana,Fim de semana,True
+0.6718464351005484,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.1343692870201095,19,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.940585009140768,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,12,1,Fim de semana,Fim de semana,True
+0.5822669104204753,14,1,Fim de semana,Fim de semana,True
+0.2239488117001827,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,8,1,Fim de semana,Fim de semana,True
+0.4478976234003657,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,12,1,Fim de semana,Fim de semana,True
+0.4478976234003657,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.7166361974405848,12,1,Fim de semana,Fim de semana,True
+0.4478976234003657,12,1,Fim de semana,Fim de semana,True
+0.4478976234003657,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,1,Fim de semana,Fim de semana,True
+0.4478976234003657,17,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,1,Fim de semana,Fim de semana,True
+0.5822669104204753,14,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,17,1,Fim de semana,Fim de semana,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,12,1,Fim de semana,Fim de semana,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,18,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.5822669104204753,11,1,Fim de semana,Fim de semana,True
+0.3583180987202925,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,14,1,Fim de semana,Fim de semana,True
+0.7166361974405848,17,1,Fim de semana,Fim de semana,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,10,1,Fim de semana,Fim de semana,True
+0.4478976234003657,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,12,1,Fim de semana,Fim de semana,True
+0.8957952468007312,21,1,Fim de semana,Fim de semana,True
+0.4478976234003657,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.7714808043875685,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.1343692870201095,14,0,Dia útil — manhã,Dia útil — manhã,True
+1.0,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,21,1,Fim de semana,Fim de semana,True
+0.5822669104204753,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,11,1,Fim de semana,Fim de semana,True
+1.0,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,14,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,11,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,1,Fim de semana,Fim de semana,True
+0.3583180987202925,13,1,Fim de semana,Fim de semana,True
+0.8957952468007312,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,17,1,Fim de semana,Fim de semana,True
+0.4478976234003657,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.1343692870201095,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,11,1,Fim de semana,Fim de semana,True
+0.4926873857404021,16,1,Fim de semana,Fim de semana,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+1.0,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,16,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.1343692870201095,13,1,Fim de semana,Fim de semana,True
+0.5822669104204753,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,22,1,Fim de semana,Fim de semana,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.0,21,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.5822669104204753,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,18,1,Fim de semana,Fim de semana,True
+0.7166361974405848,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.5429616087751371,7,1,Fim de semana,Fim de semana,True
+0.8957952468007312,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,12,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,13,1,Fim de semana,Fim de semana,True
+0.4926873857404021,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,20,1,Fim de semana,Fim de semana,True
+0.8062157221206581,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,18,1,Fim de semana,Fim de semana,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,1,Fim de semana,Fim de semana,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4926873857404021,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,1,Fim de semana,Fim de semana,True
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,16,1,Fim de semana,Fim de semana,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,15,1,Fim de semana,Fim de semana,True
+0.6718464351005484,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,17,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.2239488117001827,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,11,1,Fim de semana,Fim de semana,True
+0.2239488117001827,11,1,Fim de semana,Fim de semana,True
+0.5822669104204753,19,1,Fim de semana,Fim de semana,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,19,1,Fim de semana,Fim de semana,True
+0.8062157221206581,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.940585009140768,10,1,Fim de semana,Fim de semana,True
+0.4478976234003657,10,1,Fim de semana,Fim de semana,True
+0.5822669104204753,15,1,Fim de semana,Fim de semana,True
+0.5822669104204753,13,1,Fim de semana,Fim de semana,True
+0.4926873857404021,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2687385740402193,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,12,1,Fim de semana,Fim de semana,True
+0.2239488117001827,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,16,1,Fim de semana,Fim de semana,True
+0.5822669104204753,15,1,Fim de semana,Fim de semana,True
+0.2239488117001827,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2687385740402193,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,17,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,20,1,Fim de semana,Fim de semana,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.1343692870201095,12,1,Fim de semana,Fim de semana,True
+0.6718464351005484,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,21,1,Fim de semana,Fim de semana,True
+0.8062157221206581,13,1,Fim de semana,Fim de semana,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,9,1,Fim de semana,Fim de semana,True
+0.6718464351005484,13,1,Fim de semana,Fim de semana,True
+0.8957952468007312,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,15,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.4478976234003657,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.7166361974405848,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,18,1,Fim de semana,Fim de semana,True
+0.5822669104204753,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,15,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+1.0,13,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.2239488117001827,11,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,14,1,Fim de semana,Fim de semana,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5429616087751371,12,1,Fim de semana,Fim de semana,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.940585009140768,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,18,1,Fim de semana,Fim de semana,True
+0.8062157221206581,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,21,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,20,1,Fim de semana,Fim de semana,True
+0.2239488117001827,9,1,Fim de semana,Fim de semana,True
+0.8062157221206581,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,13,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.3583180987202925,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,10,1,Fim de semana,Fim de semana,True
+0.6718464351005484,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,11,1,Fim de semana,Fim de semana,True
+0.6718464351005484,12,1,Fim de semana,Fim de semana,True
+0.5822669104204753,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.4926873857404021,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,16,1,Fim de semana,Fim de semana,True
+0.6718464351005484,7,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.1343692870201095,16,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,7,1,Fim de semana,Fim de semana,True
+0.6718464351005484,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,9,1,Fim de semana,Fim de semana,True
+0.2239488117001827,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.7166361974405848,18,1,Fim de semana,Fim de semana,True
+0.4926873857404021,14,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,11,1,Fim de semana,Fim de semana,True
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.0,10,1,Fim de semana,Fim de semana,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,16,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.4478976234003657,12,1,Fim de semana,Fim de semana,True
+0.5822669104204753,15,1,Fim de semana,Fim de semana,True
+0.2239488117001827,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,18,1,Fim de semana,Fim de semana,True
+0.2239488117001827,8,1,Fim de semana,Fim de semana,True
+0.6718464351005484,22,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.6718464351005484,9,1,Fim de semana,Fim de semana,True
+0.8062157221206581,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,14,1,Fim de semana,Fim de semana,True
+0.2239488117001827,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,9,1,Fim de semana,Fim de semana,True
+0.8957952468007312,16,1,Fim de semana,Fim de semana,True
+0.4478976234003657,9,1,Fim de semana,Fim de semana,True
+0.5822669104204753,12,1,Fim de semana,Fim de semana,True
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,13,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.6718464351005484,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8957952468007312,21,1,Fim de semana,Fim de semana,True
+0.6718464351005484,20,1,Fim de semana,Fim de semana,True
+0.5822669104204753,13,1,Fim de semana,Fim de semana,True
+0.8062157221206581,14,1,Fim de semana,Fim de semana,True
+0.6718464351005484,14,1,Fim de semana,Fim de semana,True
+0.8062157221206581,6,0,Dia útil — manhã,Dia útil — manhã,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,20,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8062157221206581,19,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,12,0,Dia útil — tarde/noite,Dia útil — manhã,False
+0.3583180987202925,12,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,11,0,Dia útil — manhã,Dia útil — manhã,True
+0.3583180987202925,17,0,Dia útil — manhã,Dia útil — manhã,True
+0.2239488117001827,18,0,Dia útil — manhã,Dia útil — tarde/noite,False
+0.3583180987202925,10,0,Dia útil — manhã,Dia útil — manhã,True
+0.4478976234003657,8,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,14,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.8957952468007312,18,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
+0.5822669104204753,9,0,Dia útil — manhã,Dia útil — manhã,True
+0.8062157221206581,17,0,Dia útil — tarde/noite,Dia útil — tarde/noite,True
